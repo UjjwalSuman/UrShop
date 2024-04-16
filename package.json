@@ -1,0 +1,15 @@
+{
+  "name": "usshop",
+  "version": "2.0.0",
+  "description": "ecommerce website",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "ujjwal suman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
